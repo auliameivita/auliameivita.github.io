@@ -1,0 +1,31 @@
+ body {
+  background-color: darkred;
+}
+ body {font-family: "Comic Sans MS", cursive, sans-serif;
+color: white}
+body {
+  font-size: 15px;
+}
+body {outline-style: inset ; outline-width: 8px}
+img {
+  border: 2px black;
+  border-radius: 255px;
+}
+body p {
+  margin-top: 77px;
+  margin-bottom: 77px;
+  margin-right: 77px;
+  margin-left: 77px;
+}
+h1 {font-family: "Algerian";
+  background-color: black;
+  color: white;
+}
+body {
+  width: 750px;
+  border: 100px ;
+  padding: 50px;
+  margin: 50px;
+}
+p {
+  background-color: brown}
